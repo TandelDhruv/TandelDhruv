@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.f8njAURZc-pzg0r1arhm-AAAAA?rs=1&pid=ImgDetMain)]
+[![MasterHead](https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif)](https://tandeldhruv.io)
 <h1 align="center">Hi 👋, I'm Dhruv Tandel</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
@@ -17,5 +17,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tandeldhruv&show_icons=true&locale=en&layout=compact" alt="tandeldhruv" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tandeldhruv&show_icons=true&locale=en&layout=compact" alt="tandeldhruv" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tandeldhruv&show_icons=true&locale=en" alt="tandeldhruv" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tandeldhruv&" alt="tandeldhruv" /></p>
